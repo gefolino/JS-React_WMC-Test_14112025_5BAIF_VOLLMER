@@ -1,0 +1,2 @@
+# JS-React_WMC-Test_14112025_5BAIF_VOLLMER
+WMC-Test Ausarbeitung (VOLLMER/5BAIF)
